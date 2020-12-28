@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Robotics and Machine Learning. 
 - 📫 How to reach me: cmcvs163@outlook.com 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=c3mcavus&show_icons=true&theme=radical) 
+<h1 align='center'> ![Github stats](https://github-readme-stats.vercel.app/api?username=c3mcavus&show_icons=true&theme=radical) </h1>
 
 
 

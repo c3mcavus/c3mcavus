@@ -2,7 +2,7 @@
 
 ![](github_bg.png)
 
-[![Linkedin Badge](https://img.shields.io/badge/-c3mcavus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/c3mcavus/)](https://www.linkedin.com/in/c3mcavus/)
+[![Linkedin Badge](https://img.shields.io/badge/-c3mcavus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/c3mcavus/)](https://www.linkedin.com/in/c3mcavus/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/c3mcavus)  
 
 ![GitHub followers](https://img.shields.io/github/followers/c3mcavus) ![GitHub User's stars](https://img.shields.io/github/stars/c3mcavus)
 

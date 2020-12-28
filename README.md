@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-c3mcavus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/c3mcavus/)](https://www.linkedin.com/in/c3mcavus/)
 
-![GitHub followers](https://img.shields.io/github/followers/c3mcavus?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/c3mcavus)
+![GitHub followers](https://img.shields.io/github/followers/c3mcavus) ![GitHub User's stars](https://img.shields.io/github/stars/c3mcavus)
 
 ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 

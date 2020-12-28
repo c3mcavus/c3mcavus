@@ -1,4 +1,4 @@
-### Hey 👋, I'm Cem
+### # Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Cem
 
 ![](github_bg.png)
 

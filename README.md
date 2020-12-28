@@ -6,13 +6,10 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/c3mcavus) ![GitHub User's stars](https://img.shields.io/github/stars/c3mcavus)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+- 🌱 I’m currently learning Robotics and Machine Learning. 
+- 📫 How to reach me: cmcvs163@outlook.com 
 
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=c3mcavus&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c3mcavus&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=c3mcavus&show_icons=true&theme=radical)                          [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c3mcavus&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

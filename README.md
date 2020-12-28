@@ -6,6 +6,8 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/c3mcavus) ![GitHub User's stars](https://img.shields.io/github/stars/c3mcavus)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
 - 🌱 I’m currently learning Robotics and Machine Learning. 
 - 📫 How to reach me: cmcvs163@outlook.com 
 

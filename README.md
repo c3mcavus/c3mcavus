@@ -6,17 +6,16 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/c3mcavus) ![GitHub User's stars](https://img.shields.io/github/stars/c3mcavus)
 
----
 
 
-![](https://img.shields.io/badge/OS-windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
----
+
 
 - 🌱 I’m currently learning Robotics and Machine Learning. 
 - 📫 How to reach me: cmcvs163@outlook.com 
 
----
+
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=c3mcavus&show_icons=true&theme=radical)
 

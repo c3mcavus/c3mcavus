@@ -19,6 +19,8 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=c3mcavus&show_icons=true&theme=radical)
 
+![GitHub metrics](https://metrics.lecoq.io/c3mcavus)  
+
 
 
 

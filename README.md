@@ -1,4 +1,4 @@
-### # Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm Cem
+<h1 align='center'> Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm Cem </h1>
 
 ![](github_bg.png)
 

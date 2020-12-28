@@ -15,7 +15,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c3mcavus)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=c3mcavus&show_icons=true)  
+![Github stats](https://github-readme-stats.vercel.app/api?username=c3mcavus&show_icons=true&theme=radical)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=c3mcavus)  
 
